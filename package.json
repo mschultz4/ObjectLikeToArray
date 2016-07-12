@@ -1,0 +1,14 @@
+{
+  "name": "array-like_to_array",
+  "version": "1.0.0",
+  "description": "Convert array like objects to arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Schultz",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
