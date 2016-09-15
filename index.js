@@ -3,7 +3,7 @@ module.exports = function objectToArray(a) {
     if (a.toString() === '[object Object]') {
         return [].slice.call(a);
     } else{
-       //throw new Error('Not an object');
+       throw new Error('Not an object');
     }
 
 }
